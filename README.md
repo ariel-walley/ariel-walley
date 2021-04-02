@@ -1,10 +1,6 @@
-## Hi and welcome to my GitHub page! 👋
+## 👋 Hi and welcome to my GitHub page! 
 
-* 📌 Atlanta, GA
-* 📝 [LinkedIn](https://www.linkedin.com/in/ariel-walley/)
-* 📧 arielwalley95@gmail.com
-
-### I started learning to code as a hobby in Dec. 2019, loved it, and quickly realized I wanted to make this a full-time career!
+#### I started learning to code as a hobby in Dec. 2019, loved it, and quickly realized I wanted programming to be my full-time career. Since then I've been teaching myself to code through [FreeCodeCamp.org](https://www.freecodecamp.org/) and [Codecademy's Web Development path](https://www.codecademy.com/learn/paths/web-development).
 
 ## I'm comfortable using:
 
