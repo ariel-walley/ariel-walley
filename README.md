@@ -24,4 +24,4 @@ Currently working on:
 
 My next project: Creating a travel bucket list website in React using Google Maps' API
 
-Fun fact: I'm learning German and American Sign Language (ASL) as my third and fourth foreign language!
+Fun fact: I'm learning German and American Sign Language (ASL) as my third and fourth foreign language.
