@@ -20,7 +20,7 @@ I started learning to code in December 2019, loved it, and quickly realized I wa
 Currently working on: 
 - Adding features to my [GPA calculator project](https://github.com/awalley95/gpa-calculator)
 - Optimizing my [Music Matcher project](https://github.com/awalley95/music-matcher)
-- Learning Node.js
+- Expanding knowledge of Node.js
 
 My next project: Creating a travel bucket list website in React using Google Maps' API
 
