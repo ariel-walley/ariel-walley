@@ -1,6 +1,6 @@
 ## 👋 Hi and welcome to my GitHub page! 
 
-I started learning to code in December 2019, loved it, and quickly realized I wanted programming to be my full-time career. Since then I've been teaching myself to code through [FreeCodeCamp.org](https://www.freecodecamp.org/) and [Codecademy's Web Development path](https://www.codecademy.com/profiles/ariel-walley).
+I started learning to code in December 2019 and quickly came to love programming. Since then I've been teaching myself to code through [FreeCodeCamp.org](https://www.freecodecamp.org/) and [Codecademy's Web Development path](https://www.codecademy.com/profiles/ariel-walley).
 
 One of my most recent projects is a Music Matcher app ([demo link](https://music-matcher-project.web.app/)), which compares users' Spotify playlists. If you do not have a Spotify account, you can use the following usernames for the demo: spotify:user:chrissy.walley, spotify:user:1229503923. Another recent project is a GPA calculator app ([demo link](https://gpa-calculator-c000f.web.app/)).
 
