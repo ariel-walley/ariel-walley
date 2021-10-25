@@ -14,7 +14,7 @@ One of my most recent projects is a Music Matcher app ([demo link](https://music
 <img align="left" alt="React" width="30px" src="http://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" />
 <img align="left" alt="Redux" width="30px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" />
 <img align="left" alt="styled-components" width="30px" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
-<img align="left" alt="Material-UI" width="30px" src="https://camo.githubusercontent.com/58423e406b227112756822122631d9eca5ab83334a6f0d8f2a6305b086815747/68747470733a2f2f6d6174657269616c2d75692e636f6d2f7374617469632f6c6f676f2e737667" />
+<img align="left" alt="Material-UI" width="30px" src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" />
 <img align="left" alt="Lodash" width="30px" src="https://media.trytn.dev/library/sites/2/2020/06/lodash-logo-1024x1024.png" />
 <br />
 
